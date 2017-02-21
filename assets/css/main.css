@@ -185,7 +185,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #313f47;
+		color: #ffffff;
 		line-height: 1.5;
 		margin: 0 0 0.75em 0;
 	}
@@ -508,7 +508,7 @@
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
-			margin-top: -0.675em;
+			margin-top: 1.0em;
 		}
 
 			ul.icons li {
@@ -524,7 +524,7 @@
 					height: 3.75em;
 					border-radius: 100%;
 					/*border: solid 1px #c8cccf;*/
-					border: solid 1px black;
+					border: solid 1px #ffffff;
 					line-height: 3.75em;
 					overflow: hidden;
 					text-align: center;
@@ -707,10 +707,10 @@
 		max-width: 100%;
 		min-width: 27em;
 		padding: 4.5em 3em 3em 3em ;
-		background: #ffffff;
+		background: #000000;
 		border-radius: 4px;
 		cursor: default;
-		opacity: 0.4;
+		opacity: 0.5;
 		text-align: center;
 		-moz-transform-origin: 50% 50%;
 		-webkit-transform-origin: 50% 50%;
